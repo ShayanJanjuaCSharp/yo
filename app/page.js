@@ -21,7 +21,6 @@ export default function Home() {
 
     setJokes(retrievedJokesArray);
   };
-
   return (
     <Stack>
       <TextField
